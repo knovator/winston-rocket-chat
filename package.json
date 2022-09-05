@@ -1,6 +1,6 @@
 {
   "name": "@knovator/winston-rocket-chat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Rocket chat transport for Winston that logs to a channel via webhooks",
   "main": "dist/index.js",
   "private": false,
